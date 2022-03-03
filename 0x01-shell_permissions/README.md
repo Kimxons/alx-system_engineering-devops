@@ -267,3 +267,8 @@ total 24
 -rwxrwxr-x 1 julien julien      47 Sep 20 15:18 102-if_only 
 -rw-rw-r-- 1 betty  julien      23 Sep 20 14:25 hello
 julien@ubuntu:/tmp/h$ 
+
+17. Star Wars
+Write a script that will play the StarWars IV episode in the terminal.
+
+
